@@ -4,7 +4,7 @@ Downloaded from: https://www.exploit-db.com/exploits/27747
 
 ## Initial Crash
 
-```
+```py
 import struct
 import socket
 
