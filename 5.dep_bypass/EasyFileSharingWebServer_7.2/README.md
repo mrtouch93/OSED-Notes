@@ -31,6 +31,5 @@ buffer += b" HTTP/1.1\r\n"
 expl = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 expl.connect((ip, port))
 expl.send(buffer)
-expl.close()![immagine](https://user-images.githubusercontent.com/59916156/194387679-1029a1d5-e37f-4b34-a397-3c4efd998946.png)
-
+expl.close()
 ```
