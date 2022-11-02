@@ -50,7 +50,7 @@ bad_chars += b"\xe1\xe2\xe3\xe4\xe5\xe6\xe7\xe8\xe9\xea\xeb\xec\xed\xee\xef\xf0\
 		buffer += b"D"* (total - len(buffer))
 		```
 		
-		3. Look to the other registers. There are other near to the payload?
+		3. Look to the other registers. Are there any other near the payload?
 		
 		```py
 		VULNSRVR_CMD = b"KSTET "  # change me
