@@ -58,6 +58,7 @@ ntdll!_EXCEPTION_REGISTRATION_RECORD
 	!py mona seh -cpb '\x00'
 	```
 	1. If you find it, go to 5.
+	2. Otherwise search for ADD ESP,XX 
 	2. If you have only NULL byte, read here https://dl.packetstormsecurity.net/papers/bypass/bypassing-nullbyte.pdf
 		
 5. Overwrite NSEH with a short jump
