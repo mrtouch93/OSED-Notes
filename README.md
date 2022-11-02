@@ -10,6 +10,7 @@ Containing some notes + exercises that I've done during my study for the Offensi
 5. https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/ (Follow every guides)
 6. https://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html
 7. https://sec4us.com.br/cheatsheet/bufferoverflow-egghunting
+8. https://mikeczumak.com/blog/windows-exploit-development-part-1-basics/
 
 ## Exercises
 1. https://github.com/Nero22k/Exploit_Development
