@@ -1,6 +1,6 @@
 # Easy File Sharing 7.2
 
-Downloaded from: https://www.exploit-db.com/exploits/44522
+Downloaded from: https://www.exploit-db.com/exploits/39008
 
 ## Initial Crash
 
