@@ -25,7 +25,7 @@ bad_chars += b"\xe1\xe2\xe3\xe4\xe5\xe6\xe7\xe8\xe9\xea\xeb\xec\xed\xee\xef\xf0\
 	```py
 	!py mona jmp -r esp -cpb '\x00' 
 	```
-	2. There isn't space? Try with:
+	2. There isn't space?
 		
 		1.  Try with POP 32; RET and you will point to the Cs
 		
