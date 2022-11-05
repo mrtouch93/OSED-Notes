@@ -11,6 +11,7 @@ Containing some notes + exercises that I've done during my study for the Offensi
 6. https://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html
 7. https://sec4us.com.br/cheatsheet/bufferoverflow-egghunting
 8. https://mikeczumak.com/blog/windows-exploit-development-part-1-basics/
+9. https://epi052.gitlab.io/notes-to-self/blog/2020-05-22-osce-exam-practice-part-seven/
 
 ## Additional Exercises
 1. https://github.com/Nero22k/Exploit_Development
