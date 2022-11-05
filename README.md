@@ -2,7 +2,7 @@
 
 Containing some notes + exercises that I've done during my study for the Offensive Security Exploit Developer.
 
-## Resources
+## Additional Resources
 1. https://github.com/epi052/osed-scripts
 2. https://github.com/nop-tech/OSED
 3. https://github.com/sradley/osed
@@ -12,7 +12,7 @@ Containing some notes + exercises that I've done during my study for the Offensi
 7. https://sec4us.com.br/cheatsheet/bufferoverflow-egghunting
 8. https://mikeczumak.com/blog/windows-exploit-development-part-1-basics/
 
-## Exercises
+## Additional Exercises
 1. https://github.com/Nero22k/Exploit_Development
 2. https://github.com/CyberSecurityUP/Buffer-Overflow-Labs
 3. https://www.purpl3f0xsecur1ty.tech/2021/05/26/trun_re.html
