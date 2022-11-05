@@ -1,4 +1,4 @@
-# OSED Exercise
+# OSED Notes + Exercise
 
 Containing some notes + exercises that I've done during my study for the Offensive Security Exploit Developer.
 
