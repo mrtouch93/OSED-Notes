@@ -29,3 +29,5 @@ Containing some notes + exercises that I've done during my study for the Offensi
 5. https://gitlab.csc.tntech.edu/CIG/CIG-Infrastructure/-/blob/script-fixes/ExploitDBApps/Windows.vuln.apps
 6. https://github.com/VoidSec/Exploit-Development/tree/master/windows/x86
 7. https://github.com/connormcgarr/Exploit-Development/
+8. https://github.com/xct/vulnbins
+9. https://github.com/bmdyy/signatus
