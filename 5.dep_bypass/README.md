@@ -177,3 +177,4 @@ payload += struct.pack('<L', 0x1004dd10)    # lpNumberOfBytesWritten = writable 
 5. https://www.fuzzysecurity.com/tutorials/expDev/7.html
 6. https://h0mbre.github.io/Creating_Win32_ROP_Chains
 7. https://www.shogunlab.com/blog/2018/02/11/zdzg-windows-exploit-5.html
+8. https://connormcgarr.github.io/ROP2/
