@@ -6,8 +6,9 @@ Some Win32 APIs useful -> DebugHelp o SymGetSymFromName
 
 Basically:
 1. Info Leak OR
-2. Modules without ASLR enabled
+2. Modules without ASLR enabled OR
 
     ```py
     !py mona modules -cm aslr=false,rebase=false 
     ```
+3. If possible bruteforce on the addresses
