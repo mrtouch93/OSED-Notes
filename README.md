@@ -2,6 +2,14 @@
 
 Containing some notes + exercises that I've done during my study for the Offensive Security Exploit Developer.
 
+## Contents
+- [Stack Overflow](https://github.com/mrtouch93/OSED-Notes/tree/main/1.stack_overflow)
+- [SEH Overflow](https://github.com/mrtouch93/OSED-Notes/tree/main/2.seh-overflow)
+- [Egghunter](https://github.com/mrtouch93/OSED-Notes/tree/main/3.egghunter)
+- [DEP Bypass](https://github.com/mrtouch93/OSED-Notes/tree/main/5.dep_bypass)
+- [ASLR+DEP Bypass](https://github.com/mrtouch93/OSED-Notes/tree/main/6.asrl_enabled)
+
+
 ## Additional Resources
 1. https://github.com/epi052/osed-scripts
 2. https://github.com/nop-tech/OSED
