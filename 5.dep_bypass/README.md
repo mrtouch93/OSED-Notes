@@ -40,7 +40,13 @@ Some methods and hint to bypass DEP
     rop += istruzione_retn # padding for retn 0x04
     rop += istruzione_retn # padding for retn 0x04
     ```
+6. Same for ADD ESP,XX
 
+    ```py
+    ecx += pack('<L',0x41414141) # padding for add esp
+    ecx += pack('<L',0x41414141) # padding for add esp
+    ....
+    ```
 6. Search RW module
  
     ```py
