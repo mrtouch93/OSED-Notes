@@ -8,7 +8,7 @@ Containing some notes + exercises that I've done during my study for the Offensi
 - [Egghunter](https://github.com/mrtouch93/OSED-Notes/tree/main/3.egghunter)
 - [DEP Bypass](https://github.com/mrtouch93/OSED-Notes/tree/main/5.dep_bypass)
 - [ASLR+DEP Bypass](https://github.com/mrtouch93/OSED-Notes/tree/main/6.asrl_enabled)
-
+- [Format String](https://github.com/mrtouch93/OSED-Notes/tree/main/7.format_strings)
 
 ## Additional Resources
 1. https://github.com/epi052/osed-scripts
