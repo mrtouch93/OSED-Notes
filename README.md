@@ -29,13 +29,14 @@ Every exercise has been done on Windows 10 x86.
 1. https://github.com/epi052/osed-scripts
 2. https://github.com/nop-tech/OSED
 3. https://github.com/sradley/osed
-4. https://www.fuzzysecurity.com/tutorials.html (Windows Exploit Development Tutorial Series)
-5. https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/ (Follow every guides)
-6. https://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html
-7. https://sec4us.com.br/cheatsheet/bufferoverflow-egghunting
-8. https://mikeczumak.com/blog/windows-exploit-development-part-1-basics/
-9. https://epi052.gitlab.io/notes-to-self/blog/2020-05-22-osce-exam-practice-part-seven/
-10. https://web.archive.org/web/20190218144432/https://vellosec.net/2018/08/carving-shellcode-using-restrictive-character-sets/
+4. https://github.com/ommadawn46/win-x86-shellcoder
+5. https://www.fuzzysecurity.com/tutorials.html (Windows Exploit Development Tutorial Series)
+6. https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/ (Follow every guides)
+7. https://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html
+8. https://sec4us.com.br/cheatsheet/bufferoverflow-egghunting
+9. https://mikeczumak.com/blog/windows-exploit-development-part-1-basics/
+10. https://epi052.gitlab.io/notes-to-self/blog/2020-05-22-osce-exam-practice-part-seven/
+11. https://web.archive.org/web/20190218144432/https://vellosec.net/2018/08/carving-shellcode-using-restrictive-character-sets/
 
 ## Additional Exercises
 1. https://github.com/Nero22k/Exploit_Development
