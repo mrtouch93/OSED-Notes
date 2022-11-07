@@ -15,7 +15,15 @@ Every exercise has been done on Windows 10 x86.
 ## Mona Cheat Sheets
 1. https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/
 2. https://www.slideshare.net/CeSeNA/mona-cheatsheet-8833245
-3. https://sites.google.com/site/taesaza0/etc/windbgcheatsheet?overridemobile=true
+
+## WinDBG Cheat Sheets
+1. https://sites.google.com/site/taesaza0/etc/windbgcheatsheet?overridemobile=true
+2. https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg
+3. http://windbg.info/doc/1-common-cmds.html
+4. http://etutorials.org/Programming/programming+microsoft+visual+c+sharp+2005/Part+IV+Debugging/Chapter+13+Advanced+Debugging/WinDbg/
+5. https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/windows-debugging-exploiting-part-2-windbg-101/
+6. https://web.archive.org/web/20160506031348/https://mtaulty.com/2004/08/03/m_4656/
+
 
 ## Additional Resources
 1. https://github.com/epi052/osed-scripts
