@@ -124,7 +124,29 @@ Some methods and hint to bypass DEP
     0:009> dps
     ......
     ```
-    
+## Regex ROP
+```py
+:  # (jmp|call) esp
+:  # mov e..,e..
+:  # xchg e..,e..
+:  # push e.. # RETN  
+:  # push e.. # pop e.. # RETN  
+:  # pop e.. # RETN  
+:  # inc e..
+:  # dec e..
+:  # neg e..
+:  # push e..
+:  # pop e..
+:  # ADD E..,e..
+:  # pushad # RETN
+:  # and E..,(E..|0x.+?|[[:alnum:]])+
+:  # xor E..,(E..|0x.+?|[[:alnum:]])+
+:  # ADD E..,(E..|0x.+?|[[:alnum:]])+
+:  # sub E..,(E..|0x.+?|[[:alnum:]])+
+:  # mov e..,DWORD PTR
+:  # MOV DWORD PTR \[(E..|E..\+[[:alnum:]]+)\],EAX
+```
+
 ## VirtualProtect Basic Template
 
 ```py
