@@ -144,6 +144,7 @@ Some methods and hint to bypass DEP
 :  # ADD E..,(E..|0x.+?|[[:alnum:]])+
 :  # sub E..,(E..|0x.+?|[[:alnum:]])+
 :  # mov e..,DWORD PTR
+:  # lea e..,
 :  # MOV DWORD PTR \[(E..|E..\+[[:alnum:]]+)\],EAX
 ```
 
